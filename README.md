@@ -3,10 +3,10 @@ Detecting License Plate and Color of Vehicles With to Yolo
 
 V1.0 -- The project is currently made with only 100 photos and 100 epochs, so there may be minor errors.
 
-🚀 Used Libraries -------------------------------------------------------------------------------------------------------
+🚀 Used Libraries -----------------------------------------------------------------------------------------------------------
 Cv2, Numpy, Ultralytics, Pytesseract and PIL were used in the project.
 
-Acknowledgments 💡 ---------------------------------------------------------------------------------------------
+Acknowledgments 💡 ----------------------------------------------------------------------------------------------------
 OpenCV: Image processing, object detection and text insertion.
 YOLO: Object detection (especially vehicles and license plates).
 Tesseract OCR: Recognizing text on license plates.
