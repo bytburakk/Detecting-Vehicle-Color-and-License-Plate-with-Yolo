@@ -9,7 +9,7 @@ Cv2, Numpy, Ultralytics, Pytesseract and PIL were used in the project.
 Acknowledgments 💡 ----------------------------------------------------------------------------------------------------
 OpenCV: Image processing, object detection and text insertion.-------------------------------------------------------------
 YOLO: Object detection (especially vehicles and license plates).
-Tesseract OCR: Recognizing text on license plates.
+Tesseract OCR: Recognizing text on license plates.-----
 Pillow (PIL): Image processing and OCR compatibility.
 NumPy: Image data and numerical calculations.
 
