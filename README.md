@@ -15,7 +15,7 @@ NumPy: Image data and numerical calculations.
 
 Future Enhancements ✨ ----------------------------------------------------------------------------------------------
 Adding Other Country License Plates for License Plate Recognition.---------------------------------------------------
-Development of Color Recognition System.
+Development of Color Recognition System.----------------------------------------------------------------------
 Addition of Detection on Video.
 
 License 📝 -------------------------------------------------------------------------------------------------
