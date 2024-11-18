@@ -7,7 +7,7 @@ V1.0 -- The project is currently made with only 100 photos and 100 epochs, so th
 Cv2, Numpy, Ultralytics, Pytesseract and PIL were used in the project.
 
 Acknowledgments 💡 ----------------------------------------------------------------------------------------------------
-OpenCV: Image processing, object detection and text insertion.------------------------------------------------------------------------------------
+OpenCV: Image processing, object detection and text insertion.---------------------------------------------------------------------------
 YOLO: Object detection (especially vehicles and license plates).
 Tesseract OCR: Recognizing text on license plates.
 Pillow (PIL): Image processing and OCR compatibility.
