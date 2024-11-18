@@ -18,5 +18,5 @@ Adding Other Country License Plates for License Plate Recognition.--------------
 Development of Color Recognition System.------------------------------------------------------------------------------
 Addition of Detection on Video.
 
-License 📝 ----------------------------------------------------------------------------------------------------------------
+License 📝 --------------------------------------------------------------------------------------------------------------------
 This project is open source and available under the MIT License.
